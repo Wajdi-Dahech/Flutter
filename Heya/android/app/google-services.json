@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884874123729",
+    "firebase_url": "https://heyya-edbfb.firebaseio.com",
+    "project_id": "heyya-edbfb",
+    "storage_bucket": "heyya-edbfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884874123729:android:ed38fcc49b68b193ffe8f0",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884874123729-k2nnabr5ord3gsb0p473h2ga12oll3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRaeSoxwd_w4kPfy2jMuMuxbJNnBFhpAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884874123729-k2nnabr5ord3gsb0p473h2ga12oll3ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
